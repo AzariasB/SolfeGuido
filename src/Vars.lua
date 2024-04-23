@@ -12,7 +12,7 @@ the user preferences, ...
 ]]--
 return {
     appName = 'SolfeGuido',
-    appVersion = '1.5',
+    appVersion = '1.6',
     titleSize = titleSize,
     baseLine = middle - (lineHeight * 3),
     userPreferences = {

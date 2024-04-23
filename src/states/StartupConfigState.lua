@@ -41,9 +41,19 @@ function StartupConfigState.createOptions()
                     title = 'English'
                 },
                 {
+                    optionName = 'es',
+                    image = assets.images.flags.es,
+                    title = 'Español'
+                },
+                {
                     optionName = 'fr',
                     image = assets.images.flags.fr,
                     title = 'Français'
+                },
+                {
+                    optionName = 'it',
+                    image = assets.images.flags.it,
+                    title = 'Italiano'
                 },
                 {
                     optionName = 'sv',

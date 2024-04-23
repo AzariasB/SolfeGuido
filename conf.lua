@@ -50,8 +50,8 @@ function love.conf(t)
     t.releases = {
         title = 'SolfeGuido',              -- The project title (string)
         package = 'solfeGuido',            -- The project command and package name (string)
-        loveVersion = '11.3',        -- The project LÖVE version
-        version = '1.5',            -- The project version
+        loveVersion = '11.5',        -- The project LÖVE version
+        version = '1.6',            -- The project version
         author = 'Azarias',             -- Your name (string)
         email = 'azarias.boutin@mines-ales.org',              -- Your email (string)
         description = 'Learn to read music sheet the fun way',        -- The project description (string)

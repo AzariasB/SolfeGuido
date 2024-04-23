@@ -37,9 +37,9 @@ return {
     loading = 'laddar',
     --Added in 1.14, to update every version to have the last features
     new_version = 'Ny version : %{version}',
-    new1 = 'Optimerad display',
-    new2 = 'Reducerad kodbas',
-    new3 = 'Allmänna optimeringar',
+    new1 = 'Läggde till spanska',
+    new2 = 'Läggde till italianska',
+    new3 = 'Typografikorrigering',
     nice = 'Jätterbra !',
     --- All the configuration
     language = 'Språk',

@@ -39,9 +39,9 @@ return {
     loading = 'loading',
     --Added in 1.14, to update every version to have the last features
     new_version = 'New version : %{version}',
-    new1 = 'Optimized ingame rendering',
-    new2 = 'Reduced the codebase',
-    new3 = 'General optimizations',
+    new1 = 'Added spanish',
+    new2 = 'Added italian',
+    new3 = 'Fixed typos',
     nice = 'Nice !',
     --- All the configuration
     language = 'Language',

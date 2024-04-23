@@ -39,14 +39,14 @@ return {
     loading = 'chargement',
     --Added in 1.14, to update every version to have the last features
     new_version = 'Nouvelle version : %{version}',
-    new1 = 'Optimisation de l\'affichage',
-    new2 = 'Réduction de la base de code',
-    new3 = 'Optimisations en général',
+    new1 = 'Ajout de l\'espagnol',
+    new2 = 'Ajout de l\'italien',
+    new3 = 'Correction typographies',
     nice = 'Nickel !',
     --- All the configuration
     language = 'Langue',
     note_style = 'Nom des notes',
-    note_style_subtitle = 'Convetions de nommage des notes',
+    note_style_subtitle = 'Conventions de nommage des notes',
     english_note = 'Convention anglaise (C,D,E,...)',
     roman_notes = 'Convention romane (Do, Ré, Mi, ...)',
     latin_notes = 'Convention latine (Do, Re, Mi, ...)',

@@ -219,8 +219,10 @@ function OptionsState:init()
         },
         {
             icons = {
-                {'fr', assets.images.flags.fr},
                 {'en', assets.images.flags.en},
+                {'es', assets.images.flags.es},
+                {'it', assets.images.flags.it},
+                {'fr', assets.images.flags.fr},
                 {'sv', assets.images.flags.sv}
             },
             config = 'lang',
