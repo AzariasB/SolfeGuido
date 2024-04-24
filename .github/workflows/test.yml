@@ -11,5 +11,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - run: sudo apt-get update && sudo apt-get install -y luajit lua-check
-    - run: luacheck .
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y luajit lua-check lua-busted
+    - name: Run luacheck
+      run: luacheck .
+    - name: Run unit tests
+      run: busted -m=./?/init.lua
